@@ -1,0 +1,7 @@
+ hi 
+ 
+ hello this is ramchander
+ how are you are how working in shell scripting developer 
+ how many year of experiance you have
+ please confirm so that i can schdule the interview to you 
+ based on  your experiance
